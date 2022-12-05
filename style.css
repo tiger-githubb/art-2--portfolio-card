@@ -1,0 +1,75 @@
+.tile {
+    position: absolute;
+}
+
+.tile:nth-child(1) {
+    background-color: rgb(225, 238, 88);
+    height: 14%;
+    width: 20%;
+    left: 5%;
+    top: 5%;
+}
+
+.tile:nth-child(2) {
+    background-color: rgb(225, 238, 88);
+    height: 24%;
+    width: 14%;
+    left: 42%;
+    top: 12%;
+}
+
+.tile:nth-child(3) {
+    background-color: rgb(102, 187, 106);
+    height: 18%;
+    width: 16%;
+    left: 12%;
+    top: 34%;
+}
+
+.tile:nth-child(4) {
+    background-color: rgb(102, 187, 106);
+    height: 14%;
+    width: 12%;
+    left: 45%;
+    top: 48%;
+}
+
+.tile:nth-child(5) {
+    background-color: rgb(171, 71, 188);
+    height: 16%;
+    width: 32%;
+    left: 8%;
+    top: 70%;
+}
+
+.tile:nth-child(6) {
+    background-color: rgb(255, 167, 38);
+    height: 24%;
+    width: 24%;
+    left: 68%;
+    top: 8%;
+}
+
+.tile:nth-child(7) {
+    background-color: rgb(63, 81, 181);
+    height: 16%;
+    width: 20%;
+    left: 50%;
+    top: 74%;
+}
+
+.tile:nth-child(8) {
+    background-color: rgb(141, 110, 99);
+    height: 24%;
+    width: 18%;
+    left: 72%;
+    top: 42%;
+}
+
+.tile:nth-child(9) {
+    background-color: rgba(59, 77, 94, 0.411);
+    height: 10%;
+    width: 8%;
+    left: 84%;
+    top: 84%;
+}
